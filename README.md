@@ -1,6 +1,4 @@
-My name is Alp and I am 19 years old(9/27/2023)
-I am a student at Afyon Kocatepe University
-,My department is Computer engineering
+I am tera, my ambition is computer science. 
 
 
 - 👋 Hi, I’m @tera
